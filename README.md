@@ -63,14 +63,6 @@ To use the salary predictor:
 
    Open each notebook (`Data_Cleaning.ipynb`, `EDA.ipynb`, `Model_Building.ipynb`) and run the cells sequentially.
 
-5. **Execute the main script**:
-
-   After completing the above steps, you can run the main script to make salary predictions:
-
-   ```bash
-   python main.py
-   ```
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open an issue or submit a pull request.
